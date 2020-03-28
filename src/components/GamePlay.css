@@ -1,0 +1,28 @@
+.table{
+  width: auto;
+  margin: auto;
+}
+.cell{
+  height:100px;
+  width:100px;
+  background-color: bisque;
+  margin: auto;
+  background-size: contain;
+}
+.cell-x{
+  background-image:url(../images/cross.png);
+}
+.cell-o{
+  background-image:url(../images/check.png);
+}
+.cell:hover{
+  cursor: pointer;
+  border:1px solid darkgoldenrod;
+}
+.active-player{
+  color: green;
+  font-weight: bold;
+}
+.winner-cell{
+  background-color: green;
+}
