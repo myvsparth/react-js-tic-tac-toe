@@ -3,6 +3,10 @@
 
 - You will find a repo for back end here : https://github.com/myvsparth/tic-tac-toe-server
 
+## Output:
+
+![Output](https://raw.githubusercontent.com/myvsparth/react-js-tic-tac-toe/master/output.png)
+
 - clone the repo and run the following
  ```
  npm install
