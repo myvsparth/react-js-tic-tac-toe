@@ -4,7 +4,7 @@ class GetUserDetail extends Component {
     constructor() {
         super();
         this.state = {
-            mobileNumber: "7383962144"
+            mobileNumber: "1234567890"
         };
     }
     componentDidMount() {
